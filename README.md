@@ -9,12 +9,11 @@ ICCV 2019 Worshop on 3D Reconstruction in the Wild (3DRW 2019)
 
 ### Citation
 ```
-@misc{venkat2019humanmeshnet,
-    title={HumanMeshNet: Polygonal Mesh Recovery of Humans},
-    author={Abbhinav Venkat and Chaitanya Patel and Yudhik Agrawal and Avinash Sharma},
-    year={2019},
-    eprint={1908.06544},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
+@InProceedings{Venkat_2019_ICCV_Workshops,
+    author = {Venkat, Abbhinav and Patel, Chaitanya and Agrawal, Yudhik and Sharma, Avinash},
+    title = {HumanMeshNet: Polygonal Mesh Recovery of Humans},
+    booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+    month = {Oct},
+    year = {2019}
+} 
 ```
